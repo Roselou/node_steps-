@@ -1,5 +1,5 @@
-var animalsController = require('./animalsControllers');
+var animalsControllers = require('./animalsControllers');
 
 module.exports = {
-	animals : animalsController
+	animals : animalsControllers
 }
